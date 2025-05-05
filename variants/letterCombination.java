@@ -2,7 +2,7 @@
 // by rich7420 myself
 // for unique letters 
 import java.util.*;
-class Solution {
+class letterCombination {
     public List<String> letterCombinations(String digits) {
         // new List<String>
         List<String> result = new ArrayList<>();
