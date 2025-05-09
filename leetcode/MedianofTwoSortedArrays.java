@@ -1,5 +1,6 @@
 //4. Median of Two Sorted Arrays
 // use jumpping binary search
+// for the median of two sorted array
 class Solution {
     // Method to find the median of two sorted arrays
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
